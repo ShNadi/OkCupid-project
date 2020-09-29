@@ -1,0 +1,100 @@
+	-1.5590	majoring       		2.2883	grad           
+	-1.4212	going school   		2.0824	graduated      
+	-1.3463	studying       		2.0578	masters        
+	-1.3228	major          		1.4839	phd            
+	-1.2291	ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss		1.3371	graduate       
+	-1.2148	student        		1.3189	mba            
+	-1.2094	finishing      		1.2091	skiing         
+	-1.1698	going funny    		1.0918	teacher        
+	-1.0847	semester       		1.0832	law            
+	-1.0660	going college  		1.0390	teaching       
+	-1.0482	school work    		1.0156	law school     
+	-1.0142	school         		0.9822	engineer       
+	-0.9932	thats private  		0.9581	grad school    
+	-0.9544	time student   		0.8717	graduate student
+	-0.9364	tattoos        		0.8184	educated       
+	-0.9117	bachelors      		0.8134	graduate school
+	-0.9074	skateboarding  		0.7670	snowboarding   
+	-0.8826	smoking        		0.7397	nyc            
+	-0.8773	happy person   		0.7376	balance        
+	-0.8748	college        		0.7341	med            
+	-0.8562	eyelashes longer		0.7306	went           
+	-0.8393	people probably		0.7238	healthcare     
+	-0.8302	senior         		0.7125	mfa            
+	-0.8275	attending      		0.7115	easygoing      
+	-0.7990	amselfrelianthardworkingi		0.7041	Parenth        
+	-0.7901	lit            		0.6930	evening        
+	-0.7743	keeping lit    		0.6822	catching       
+	-0.7566	partner college		0.6706	students       
+	-0.7555	finishing degree		0.6450	travelling     
+	-0.7497	sf state       		0.6423	tennis         
+	-0.7441	smoke          		0.6418	making art     
+	-0.7387	nice person    		0.6397	masters degree 
+	-0.7347	private told   		0.6388	traveled       
+	-0.7327	enjoying keeping		0.6307	went college   
+	-0.7291	time right     		0.6307	museums        
+	-0.7252	shy            		0.6286	moves          
+	-0.7226	eyes height    		0.6220	finished       
+	-0.7220	usually home   		0.6158	grad student   
+	-0.7212	finish         		0.6140	curiosity      
+	-0.7205	dimples        		0.6113	studied        
+	-0.7203	sfsu           		0.6085	east coast     
+	-0.7151	homework       		0.6030	professional   
+	-0.7107	smile relaxing 		0.6008	runs           
+	-0.7034	computers      		0.5961	grade          
+	-0.7030	attend         		0.5950	designer       
+	-0.7007	transfer       		0.5947	nonprofit      
+	-0.6999	love meeting   		0.5903	med school     
+	-0.6929	fuck           		0.5891	nice like      
+	-0.6923	want talk      		0.5829	dinner friends 
+	-0.6848	work school    		0.5812	advertising    
+	-0.6843	making friends 		0.5811	ma             
+	-0.6809	lol            		0.5796	environmental  
+	-0.6783	acting         		0.5735	objects        
+	-0.6724	cool guy       		0.5636	blue eyes      
+	-0.6663	friends smile  		0.5617	accent         
+	-0.6619	working degree 		0.5596	dc             
+	-0.6586	aa             		0.5572	wonder         
+	-0.6484	minor          		0.5550	majored        
+	-0.6433	sex smile      		0.5485	list           
+	-0.6394	nursing studenttransgendered		0.5479	process        
+	-0.6394	studenttransgendered		0.5429	exam           
+	-0.6378	nothingand thats		0.5414	large          
+	-0.6377	ears           		0.5403	medical school 
+	-0.6286	fixing things  		0.5400	yes            
+	-0.6279	wake           		0.5361	weekends       
+	-0.6263	money          		0.5359	travel         
+	-0.6259	private ha     		0.5324	friends watching
+	-0.6232	complete       		0.5324	graduated college
+	-0.6231	djing          		0.5288	countries      
+	-0.6188	ca             		0.5274	smile lot      
+	-0.6127	military       		0.5238	equally        
+	-0.6112	smile looking  		0.5236	sun            
+	-0.6070	smokin         		0.5227	consultant     
+	-0.6055	ezgoing        		0.5225	curious        
+	-0.6055	ezgoing guy    		0.5211	reliable       
+	-0.6055	im ezgoing     		0.5182	awesome personality
+	-0.6046	nothingand     		0.5173	love good      
+	-0.6034	im single      		0.5165	midwest        
+	-0.6030	hell           		0.5154	wine           
+	-0.6028	working school 		0.5132	recently graduated
+	-0.6027	guy loves      		0.5099	connecting     
+	-0.6009	toschool       		0.5096	fulfilling     
+	-0.6004	working getting		0.5071	work love      
+	-0.6002	friends spending		0.5058	ping           
+	-0.5968	working bachelors		0.5053	hair green     
+	-0.5949	im studying    		0.5021	athletic       
+	-0.5919	community college		0.4997	living sf      
+	-0.5895	doing different		0.4970	mr             
+	-0.5894	stoned         		0.4935	meals          
+	-0.5881	shhh           		0.4917	moved bay      
+	-0.5878	east bay       		0.4916	startup        
+	-0.5838	motorcycles    		0.4912	love love      
+	-0.5828	im life        		0.4907	news           
+	-0.5780	lt             		0.4901	project        
+	-0.5767	musician       		0.4901	stock          
+	-0.5752	told shhh      		0.4898	software       
+	-0.5747	jus            		0.4894	essay          
+	-0.5746	just know      		0.4882	flow           
+	-0.5728	working nursing		0.4867	doctorate      
+	-0.5727	pursuing career		0.4845	happy hour     

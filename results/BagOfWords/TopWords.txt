@@ -1,0 +1,50 @@
+	-1.9546	majoring       		2.5959	grad           
+	-1.4109	semester       		2.3593	graduated      
+	-1.4023	going college  		2.2671	masters        
+	-1.3921	studying       		1.9423	phd            
+	-1.3905	going school   		1.7876	mba            
+	-1.3904	major          		1.4892	skiing         
+	-1.3061	time student   		1.4587	law school     
+	-1.2843	school work    		1.3583	graduate       
+	-1.2479	ask ask        		1.3347	graduate student
+	-1.2355	finishing degree		1.1629	graduate school
+	-1.2113	finishing      		1.1460	engineer       
+	-1.2011	transfer       		1.1249	mfa            
+	-1.1444	school         		1.1124	teacher        
+	-1.1231	skateboarding  		1.0918	teaching       
+	-1.1122	student        		1.0743	law            
+	-1.1054	senior         		1.0254	grad school    
+	-1.0787	working degree 		1.0145	med            
+	-1.0632	sf state       		0.9475	runs           
+	-1.0333	sex smile      		0.9434	making art     
+	-1.0169	bachelors      		0.9290	healthcare     
+	-0.9959	tattoos        		0.9243	evening        
+	-0.9894	graduated high 		0.9217	exam           
+	-0.9884	tan            		0.9205	educated       
+	-0.9792	aa             		0.9203	advertising    
+	-0.9690	attending      		0.8980	went college   
+	-0.9687	smoking        		0.8977	marketing      
+	-0.9578	trynna         		0.8601	majored        
+	-0.9426	attend         		0.8396	snowboarding   
+	-0.9363	computers      		0.8326	environmental  
+	-0.9358	smokin         		0.8289	laughs         
+	-0.9226	usually home   		0.8251	objects        
+	-0.9197	want im        		0.8199	grad student   
+	-0.9079	good hands     		0.8199	designer       
+	-0.9067	going funny    		0.8141	stock          
+	-0.9024	wake           		0.8141	masters degree 
+	-0.8989	smoke          		0.8125	curiosity      
+	-0.8827	nice person    		0.8108	moves          
+	-0.8771	jus            		0.8079	traveled       
+	-0.8752	ok fine        		0.7968	med school     
+	-0.8745	military       		0.7956	doctorate      
+	-0.8725	simplicity     		0.7938	open want      
+	-0.8707	lt             		0.7897	ma             
+	-0.8706	retreat        		0.7838	reliable       
+	-0.8699	smile relaxing 		0.7709	nyc            
+	-0.8671	think like     		0.7696	museums        
+	-0.8635	collect        		0.7677	catching       
+	-0.8622	lol            		0.7665	george         
+	-0.8580	homework       		0.7660	tennis         
+	-0.8550	working getting		0.7651	ive spent      
+	-0.8473	finish         		0.7605	students       
